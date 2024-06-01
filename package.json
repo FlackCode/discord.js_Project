@@ -1,0 +1,20 @@
+{
+  "name": "discordjsproject",
+  "scripts": {
+    "start": "bun bot.js",
+    "cmd": "bun commands.js"
+  },
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
+}
