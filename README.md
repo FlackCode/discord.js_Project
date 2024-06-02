@@ -38,11 +38,11 @@ For backend db i think i will try and implement Firebase if possible.
    - Features: Fetches and displays weather information for a given location.
    - Skills: API integration, command handling, message event.
 
-9. **Quote Bot**
+9. **Quote Bot** ✅
    - Features: Stores and retrieves random quotes.
    - Skills: Data storage (e.g., in-memory or using a simple file), command handling.
 
-10. **Basic Logging Bot**
+10. **Basic Logging Bot** ✅
     - Features: Logs member join and leave events to a specific channel.
     - Skills: Event handling (e.g., `guildMemberAdd`, `guildMemberRemove`), sending messages.
 
