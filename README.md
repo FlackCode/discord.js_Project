@@ -25,7 +25,7 @@ For backend db i think i will try and implement Firebase if possible.
    - Features: Assigns a role to a user when they react.
    - Skills: Role management, message event, command handling.
 
-6. **Basic Poll Bot**
+6. **Basic Poll Bot** ✅
    - Features: Creates a simple poll with reactions for yes/no answers.
    - Skills: Message reactions, collecting reactions, command handling.
 
