@@ -30,11 +30,11 @@ For backend db i think i will try and implement Firebase if possible.
    - Skills: Message reactions, collecting reactions, command handling.
    - 6.5: Add `/pollend` command. ✅
 
-7. **Remind Me Bot**
+7. **Remind Me Bot** ✅
    - Features: Sets a reminder for the user (e.g., `!remindme 10m Walk the dog`).
    - Skills: Timers, message parsing, basic command handling.
 
-8. **Weather Bot**
+8. **Weather Bot** ✅
    - Features: Fetches and displays weather information for a given location.
    - Skills: API integration, command handling, message event.
 
@@ -52,7 +52,7 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Plays music from YouTube links.
     - Skills: Voice channel management, streaming audio, command handling.
 
-12. **Advanced Poll Bot**
+12. **Advanced Poll Bot** ✅
     - Features: Creates polls with multiple options and collects votes.
     - Skills: Message reactions, collecting reactions, managing state.
 
