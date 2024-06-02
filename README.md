@@ -28,6 +28,7 @@ For backend db i think i will try and implement Firebase if possible.
 6. **Basic Poll Bot** ✅
    - Features: Creates a simple poll with reactions for yes/no answers.
    - Skills: Message reactions, collecting reactions, command handling.
+   - 6.5: Add `/pollend` command. ✅
 
 7. **Remind Me Bot**
    - Features: Sets a reminder for the user (e.g., `!remindme 10m Walk the dog`).

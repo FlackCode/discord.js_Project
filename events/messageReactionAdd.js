@@ -19,7 +19,7 @@ module.exports = {
                 '🟢': '1246723566133841970',
                 '🔵': '1246723598173868137',
             }
-    
+            
             const roleId = roleIds[reaction.emoji.name]
             const member = await reaction.message.guild.members.fetch(user.id)
     

@@ -1,5 +1,5 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js')
-
+const { setMessageId } = require('../state')
 module.exports = {
     data: new SlashCommandBuilder()
     .setName('poll')
@@ -53,6 +53,9 @@ module.exports = {
         const message = await channel.send({
             embeds: [embed]
         })
+
+        setMessageId(message.id)
+
         for (let i = 1; i < options.length; i++) {
             let emoji = emojis[i-1]
             message.react(emoji)
