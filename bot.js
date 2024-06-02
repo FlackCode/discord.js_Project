@@ -1,4 +1,4 @@
-import { Client, GatewayIntentBits } from "discord.js"
+import { Client, GatewayIntentBits, Partials } from "discord.js"
 require('dotenv').config()
 const fs = require('node:fs')
 const path = require('node:path')
@@ -8,7 +8,9 @@ const client = new Client(
         intents: [GatewayIntentBits.Guilds] |
         [GatewayIntentBits.GuildMembers] |
         [GatewayIntentBits.MessageContent] |
-        [GatewayIntentBits.GuildMessages]
+        [GatewayIntentBits.GuildMessages] |
+        [GatewayIntentBits.GuildMessageReactions],
+        partials: [Partials.Message, Partials.Reaction, Partials.Channel]
     }
 )
 

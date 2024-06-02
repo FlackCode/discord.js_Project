@@ -21,8 +21,8 @@ For backend db i think i will try and implement Firebase if possible.
    - Features: Fetches and sends a random joke when prompted.
    - Skills: API integration, fetching data, sending messages.
 
-5. **Role Assigner Bot**
-   - Features: Assigns a role to a user when they send a specific command.
+5. **Role Assigner Bot** ✅
+   - Features: Assigns a role to a user when they react.
    - Skills: Role management, message event, command handling.
 
 6. **Basic Poll Bot**
