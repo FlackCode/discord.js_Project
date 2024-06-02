@@ -5,11 +5,11 @@ For backend db i think i will try and implement Firebase if possible.
 
 ### Beginner Level Projects
 
-1. **Welcome Bot**
+1. **Welcome Bot** ✅
    - Features: Sends a welcome message to new members joining the server.
    - Skills: Basic bot setup, event handling (e.g., `guildMemberAdd` event).
 
-2. **Basic Command Bot**
+2. **Basic Command Bot** ✅
    - Features: Responds to simple text commands (e.g., `!hello` responds with "Hello!").
    - Skills: Command handling, message event.
 
