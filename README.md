@@ -13,11 +13,11 @@ For backend db i think i will try and implement Firebase if possible.
    - Features: Responds to simple text commands (e.g., `!hello` responds with "Hello!").
    - Skills: Command handling, message event.
 
-3. **Ping Pong Bot**
+3. **Ping Pong Bot** ✅
    - Features: Responds with "Pong!" when a user sends `!ping`.
    - Skills: Command handling, message event, basic string comparison.
 
-4. **Random Joke Bot**
+4. **Random Joke Bot** ✅
    - Features: Fetches and sends a random joke when prompted.
    - Skills: API integration, fetching data, sending messages.
 
