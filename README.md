@@ -48,7 +48,7 @@ For backend db i think i will try and implement Firebase if possible.
 
 ### Intermediate Level Projects
 
-11. **Music Player Bot**
+11. **Music Player Bot** ✅
     - Features: Plays music from YouTube links.
     - Skills: Voice channel management, streaming audio, command handling.
 
@@ -82,7 +82,7 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Play a simple game like Tic-Tac-Toe in the chat.
     - Skills: State management, command handling, message interactions.
 
-19. **Advanced Music Bot**
+19. **Advanced Music Bot** ✅
     - Features: Playlist management, queuing songs, skip, pause, and resume.
     - Skills: Voice channel management, streaming audio, state management.
 
