@@ -1,7 +1,6 @@
 # discordjsproject
 
 Going to make a discord bot that will be abled to do all of these following tasks in order to learn discord.js!
-For backend db i think i will try and implement Firebase if possible.
 
 ### Beginner Level Projects
 
@@ -74,11 +73,11 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Allows server admins to set custom welcome messages.
     - Skills: Command handling, configuration storage (e.g., using a database).
 
-17. **Economy Bot**
+17. **Economy Bot** ✅
     - Features: Virtual currency system with earning and spending commands.
     - Skills: Data persistence, state management, command handling.
 
-18. **Game Bot (e.g., Tic-Tac-Toe)**
+18. **Game Bot (e.g., Tic-Tac-Toe)** ✅
     - Features: Play a simple game like Tic-Tac-Toe in the chat.
     - Skills: State management, command handling, message interactions.
 
@@ -86,6 +85,6 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Playlist management, queuing songs, skip, pause, and resume.
     - Skills: Voice channel management, streaming audio, state management.
 
-20. **Analytics Bot**
-    - Features: Tracks and reports server statistics (e.g., message activity, user join/leave).
-    - Skills: Data collection, chart generation, command handling.
+20. **Freedom** ✅
+    - This project is over, i am finally free.
+    - Time to complete: 25-30h

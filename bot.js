@@ -12,7 +12,8 @@ const client = new Client(
         [GatewayIntentBits.MessageContent] |
         [GatewayIntentBits.GuildMessages] |
         [GatewayIntentBits.GuildMessageReactions] |
-        [GatewayIntentBits.GuildVoiceStates]
+        [GatewayIntentBits.GuildVoiceStates] |
+        [GatewayIntentBits.GuildModeration]
         ,
         partials: [Partials.Message, Partials.Reaction, Partials.Channel]
     }
