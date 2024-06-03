@@ -60,7 +60,7 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Asks trivia questions and checks answers.
     - Skills: API integration, state management, command handling.
 
-14. **Moderation Bot**
+14. **Moderation Bot** ✅
     - Features: Basic moderation commands (e.g., kick, ban, mute).
     - Skills: Role and permission management, command handling.
 
