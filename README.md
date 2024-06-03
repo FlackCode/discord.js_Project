@@ -64,13 +64,13 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Basic moderation commands (e.g., kick, ban, mute).
     - Skills: Role and permission management, command handling.
 
-15. **Scheduler Bot**
+15. **Scheduler Bot** ✅
     - Features: Schedule events and send reminders to users.
     - Skills: Timers, scheduling tasks, command handling.
 
 ### Advanced Level Projects
 
-16. **Customizable Welcome Bot**
+16. **Customizable Welcome Bot** ✅
     - Features: Allows server admins to set custom welcome messages.
     - Skills: Command handling, configuration storage (e.g., using a database).
 

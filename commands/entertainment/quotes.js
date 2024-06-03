@@ -12,7 +12,7 @@ module.exports = {
         await interaction.deferReply({ephemeral: true})
         const { channel } = await interaction
         try {
-            const storagePath = path.join(__dirname, '../storage')
+            const storagePath = path.join(__dirname, '../../storage')
             const quotesFile = 'quotes.json'
             const filePath = path.join(storagePath, quotesFile)
             const storageData = await fs.readFile(filePath)
