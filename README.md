@@ -56,7 +56,7 @@ For backend db i think i will try and implement Firebase if possible.
     - Features: Creates polls with multiple options and collects votes.
     - Skills: Message reactions, collecting reactions, managing state.
 
-13. **Trivia Bot**
+13. **Trivia Bot** ✅
     - Features: Asks trivia questions and checks answers.
     - Skills: API integration, state management, command handling.
 
